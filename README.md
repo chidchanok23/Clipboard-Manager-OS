@@ -167,7 +167,7 @@ Clipboard-Manager-OS/
 ติดตั้ง Pyperclip:
 
 ```powershell
-python -m pip install pyperclip
+python -m pip install -r requirements.txt
 ```
 
 ---
